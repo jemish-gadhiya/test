@@ -9,7 +9,7 @@ This project is for practical test using node.js express APIs, typescript, mysql
 
 Setup the database and their tables in local environment for that import the data base which is in the root directory of project with name :
 
-`sql.json`
+`tatva.sql`
 
 
 
